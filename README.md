@@ -15,9 +15,18 @@ I mainly work with **C++**, but I'm also proficient in **C#**, **JavaScript**, *
 ---
 
 ## 📊 GitHub Stats
-![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsJustJoshua&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsJustJoshua&layout=compact&theme=tokyonight)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ItsJustJoshua&show_icons=true&theme=tokyonight" alt="Joshua's GitHub stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsJustJoshua&layout=compact&theme=tokyonight" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
