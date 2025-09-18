@@ -41,6 +41,6 @@ I mainly work with **C++**, but I'm also proficient in **C#**, **JavaScript**, *
 ---
 
 ## 🏆 Badges
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=ItsJustJoshua&color=blue)
+![Followers](https://img.shields.io/github/followers/ItsJustJoshua?style=social)
+![Stars](https://img.shields.io/github/stars/ItsJustJoshua?style=social)
