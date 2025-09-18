@@ -15,9 +15,9 @@ I mainly work with **C++**, but I'm also proficient in **C#**, **JavaScript**, *
 ---
 
 ## 📊 GitHub Stats
-![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsJustJoshua&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsJustJoshua&layout=compact&theme=tokyonight)
 
 ---
 
